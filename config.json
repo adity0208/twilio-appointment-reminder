@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "name": "John Doe",
+            "phone_number": "+1234567890",
+            "appointment_time": "tomorrow at 3 PM",
+            "preferred_language": "es"
+        }
+    ]
+}
